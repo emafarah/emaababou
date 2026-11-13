@@ -10,9 +10,9 @@
 
 Après plusieurs expériences dans le digital (chargée de projet, cheffe de projet, responsable marketing, consultante), je me réoriente vers l'informatique, un domaine porteur qui impose de s'adapter et de se remettre à jour en permanence.
 
-Je suis actuellement en **formation Administrateur Systèmes et Réseaux** (TFP, RNCP niveau 6) et je me forme en parallèle en autonomie. Je suis particulièrement attirée par le versant **opérationnel et pratique** de la cybersécurité : maintenance, fiabilité et sécurisation concrète des infrastructures.
+Je suis actuellement en **formation Administrateur Systèmes et Réseaux** (RNCP niveau 6) et je me forme en parallèle en autonomie. Je suis particulièrement attirée par le versant **opérationnel et pratique** de la cybersécurité : maintenance, fiabilité et sécurisation concrète des infrastructures.
 
-📍 France (Paris - Strasbourg) · 🌐 [Portfolio](https://emaaababou.framer.website) · 🗣️ Anglais (C1)
+📍 France (Paris - Strasbourg) · 🌐 [Portfolio](https://emaababou.framer.website) · Anglais (C1)
 
 ### 🎓 En formation : Administrateur Systèmes et Réseaux
 
@@ -39,11 +39,11 @@ Ce que j'ai appris et pratiqué jusqu'ici :
 ### 🌱 Parcours d'apprentissage
 
 - **Formation Administrateur Systèmes et Réseaux** : en cours
-- **LaBex** : autoformation en SQL, HTML/CSS et JavaScript
+- **LaBex** : autoformation en DevOps et Cloud, JavaScript et SQL
 - **École 42** : semaine de découverte du code (Shell, HTML/CSS, JavaScript)
-- **Cybersécurité et cyberespace** : deux semaines de découverte
+- **Cybersécurité et cyberespace** : deux semaines de découverte à l'école HETIC (Linux, Ansible...)
 
-### 💼 Expérience professionnelle
+### 💼 Expériences professionnelles
 
 | Période | Poste | Structure |
 |---|---|---|
@@ -62,12 +62,13 @@ Ces missions m'ont amenée à travailler avec des équipes techniques : cadrage 
 
 ### 🤝 Engagement et centres d'intérêt
 
-Engagement associatif (Human Appeal, EMF Strasbourg, AFEV, programmes « Eye Volunteer » et « SWAFY ») : coordination de projets, gestion de trésorerie, montage vidéo, photographie. J'aime aussi les jeux vidéo, les voyages, les cultures est-asiatiques et la photographie.
+Engagement associatif (Human Appeal, EMF Strasbourg, AFEV, programmes « Eye Volunteer » et « SWAFY ») : coordination de projets, gestion de trésorerie, montage vidéo, photographie. J'aime aussi les jeux vidéo, les voyages et la photographie. Je me tiens au courant des actualités et aime particulièrement la géopolitique.
 
 ### 📫 Me contacter
 
-- 🌐 Portfolio : [emaaababou.framer.website](https://emaaababou.framer.website)
-- 💼 LinkedIn : *(ajouter ton lien)*
+- 🌐 Portfolio : [emaababou.framer.website](https://emaababou.framer.website)
+- 💼 LinkedIn : [linkedin.com/in/ema-ababou](https://www.linkedin.com/in/ema-ababou/)
+- 📧 E-mail : [emmafarah@hotmail.fr](mailto:emmafarah@hotmail.fr)
 
 ---
 
@@ -79,7 +80,7 @@ After several roles in digital (project officer, project manager, marketing mana
 
 I'm currently enrolled in a **Systems and Network Administrator training programme** (TFP, RNCP level 6) and I'm also learning on my own. I'm especially drawn to the **hands-on, operational side** of cybersecurity: maintenance, reliability and practical hardening of infrastructure.
 
-📍 France (Paris - Strasbourg) · 🌐 [Portfolio](https://emaaababou.framer.website) · 🗣️ English (C1)
+📍 France (Paris - Strasbourg) · 🌐 [Portfolio](https://emaababou.framer.website) · 🗣️ English (C1)
 
 ### 🎓 Currently studying: Systems and Network Administration
 
@@ -99,7 +100,7 @@ What I've learned and practised so far:
 | Networking | OSI/TCP-IP, subnetting, VLAN, DHCP, DNS, Cisco |
 | Security | Firewall filtering, event log analysis, cybersecurity awareness |
 | Systems | Virtual machines, remote administration, Shell |
-| Development | SQL, HTML/CSS, JavaScript |
+| Development | SQL, HTML/CSS, JavaScript, Bash |
 | Project management | Agile, backlog management, specifications, product roadmaps, Trello |
 | Business tools | WordPress, Shopify, Salesforce, HubSpot, Zoho, Power Automate, Semrush, Google Analytics |
 
@@ -108,7 +109,7 @@ What I've learned and practised so far:
 - **Systems and Network Administrator programme**: ongoing
 - **LaBex**: self-paced learning in SQL, HTML/CSS and JavaScript
 - **École 42**: one-week coding discovery (Shell, HTML/CSS, JavaScript)
-- **Cybersecurity and cyberspace**: two-week discovery programme
+- **Cybersecurity and cyberspace**: two weeks of introductory courses at HETIC (Linux, Ansible, etc.) 
 
 ### 💼 Professional experience
 
@@ -129,9 +130,10 @@ These roles had me working daily with technical teams: functional scoping, coord
 
 ### 🤝 Volunteering and interests
 
-Volunteering with Human Appeal, EMF Strasbourg, AFEV, and the "Eye Volunteer" and "SWAFY" programmes: project coordination, treasury management, video editing, photography. I also enjoy video games, travel, East Asian cultures and photography.
+Volunteering with Human Appeal, EMF Strasbourg, AFEV, and the "Eye Volunteer" and "SWAFY" programmes: project coordination, treasury management, video editing, photography. I also enjoy video games, travel and photography. I keep up with the news and am particularly interested in geopolitics.
 
 ### 📫 Get in touch
 
 - 🌐 Portfolio: [emaaababou.framer.website](https://emaaababou.framer.website)
-- 💼 LinkedIn: *(add your link)*
+- 💼 LinkedIn: [linkedin.com/in/ema-ababou](https://www.linkedin.com/in/ema-ababou/)
+- 📧 E-mail: [emmafarah@hotmail.fr](mailto:emmafarah@hotmail.fr)
