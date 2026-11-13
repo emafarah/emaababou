@@ -1,2 +1,0 @@
-# emaababou
-About me !
