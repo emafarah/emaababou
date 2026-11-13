@@ -12,7 +12,7 @@ Après plusieurs expériences dans le digital (chargée de projet, cheffe de pro
 
 Je suis actuellement en **formation Administrateur Systèmes et Réseaux** (RNCP niveau 6) et je me forme en parallèle en autonomie. Je suis particulièrement attirée par le versant **opérationnel et pratique** de la cybersécurité : maintenance, fiabilité et sécurisation concrète des infrastructures.
 
-📍 France (Paris - Strasbourg) · 🌐 [Portfolio](https://emaababou.framer.website) · Anglais (C1)
+📍 France (Paris - Strasbourg) · 🌐 [Portfolio](https://emafarah.github.io/portfolio/) · Anglais (C1)
 
 ### 🎓 En formation : Administrateur Systèmes et Réseaux
 
@@ -66,7 +66,7 @@ Engagement associatif (Human Appeal, EMF Strasbourg, AFEV, programmes « Eye Vol
 
 ### 📫 Me contacter
 
-- 🌐 Portfolio : [emaababou.framer.website](https://emaababou.framer.website)
+- 🌐 Portfolio : [emafarah.github.io](https://emafarah.github.io/portfolio/)
 - 💼 LinkedIn : [linkedin.com/in/ema-ababou](https://www.linkedin.com/in/ema-ababou/)
 - 📧 E-mail : [emmafarah@hotmail.fr](mailto:emmafarah@hotmail.fr)
 
@@ -80,7 +80,7 @@ After several roles in digital (project officer, project manager, marketing mana
 
 I'm currently enrolled in a **Systems and Network Administrator training programme** (TFP, RNCP level 6) and I'm also learning on my own. I'm especially drawn to the **hands-on, operational side** of cybersecurity: maintenance, reliability and practical hardening of infrastructure.
 
-📍 France (Paris - Strasbourg) · 🌐 [Portfolio](https://emaababou.framer.website) · 🗣️ English (C1)
+📍 France (Paris - Strasbourg) · 🌐 [Portfolio](https://emafarah.github.io/portfolio/) · 🗣️ English (C1)
 
 ### 🎓 Currently studying: Systems and Network Administration
 
@@ -134,6 +134,6 @@ Volunteering with Human Appeal, EMF Strasbourg, AFEV, and the "Eye Volunteer" an
 
 ### 📫 Get in touch
 
-- 🌐 Portfolio: [emaaababou.framer.website](https://emaaababou.framer.website)
+- 🌐 Portfolio: [emafarah.github.io](https://emafarah.github.io/portfolio/)
 - 💼 LinkedIn: [linkedin.com/in/ema-ababou](https://www.linkedin.com/in/ema-ababou/)
 - 📧 E-mail: [emmafarah@hotmail.fr](mailto:emmafarah@hotmail.fr)
